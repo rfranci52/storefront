@@ -6,7 +6,7 @@ export const storeProducts =
     img: "images/chipcookie.png",
     price: 2.25,
     info:"a delicious chocolate chip cookie",
-    inCart: false,
+    inCart: true,
     count:0,
     total:0},
 
