@@ -1,8 +1,9 @@
+
 export const storeProducts =
 [
     {id:1,
     title: "chipcookie",
-    img: "imgages/chipcookie.png",
+    img: "images/chipcookie.png",
     price: 2.25,
     info:"a delicious chocolate chip cookie",
     inCart: false,
@@ -11,7 +12,7 @@ export const storeProducts =
 
     {id:2,
     title: "chocolate chip cookie",
-    img: "imgages/cookie2.png",
+    img: "images/cookie2.png",
     price: 1.25,
     info:"a slightly less delicious chocolate chip cookie",
     inCart: false,
@@ -20,7 +21,7 @@ export const storeProducts =
 
     {id:3,
     title: "dino cookie",
-    img: "imgages/dinocookie.jpeg",
+    img: "images/dinocookie.jpeg",
     price: 2.75,
     info:"a delicious dinosour shaped cookie",
     inCart: false,
@@ -29,7 +30,7 @@ export const storeProducts =
 
     {id:4,
     title: "double chocolate chip",
-    img: "imgages/doublechocolate.jpeg",
+    img: "images/doublechocolate.jpeg",
     price: 2.45,
     info:"a delicious double chocolate chip cookie",
     inCart: false,
@@ -38,7 +39,7 @@ export const storeProducts =
 
     {id:5,
     title: "gingerbread cookie",
-    img: "imgages/gingerbread.png",
+    img: "images/gingerbread.png",
     price: 4.25,
     info:"a delicious gingerbread  cookie",
     inCart: false,
@@ -47,7 +48,7 @@ export const storeProducts =
 
     {id:6,
     title: "happy cookie",
-    img: "imgages/happy.png",
+    img: "images/happy.png",
     price: 4.25,
     info:"a happy cookie",
     inCart: false,
@@ -56,7 +57,7 @@ export const storeProducts =
 
     {id:7,
     title: "rasberry fill",
-    img: "imgages/rasberryfill.png",
+    img: "images/rasberryfill.png",
     price: 4.25,
     info:"a delicious rasberry fill cookie",
     inCart: false,
@@ -68,7 +69,7 @@ export const detailProduct =
 
     {id:1,
     title: "chipcookie",
-    img: "imgages/chipcookie.png",
+    img: "images/chipcookie.png",
     price: 2.25,
     info:"a delicious chocolate chip cookie",
     inCart: false,
